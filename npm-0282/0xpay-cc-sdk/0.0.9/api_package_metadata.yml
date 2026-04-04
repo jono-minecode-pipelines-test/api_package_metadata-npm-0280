@@ -1,0 +1,74 @@
+{
+    "name": "0xpay-cc-sdk",
+    "version": "0.0.9",
+    "keywords": [
+        "cyrptocurrency",
+        "crypto",
+        "wallets",
+        "payment",
+        "blockchain"
+    ],
+    "author": {
+        "url": "contact@0xmowgli.com",
+        "name": "0xMowgli"
+    },
+    "license": "MIT",
+    "_id": "0xpay-cc-sdk@0.0.9",
+    "maintainers": [
+        {
+            "name": "0xmowgli",
+            "email": "contact@0xmowgli.com"
+        }
+    ],
+    "homepage": "https://github.com/0xPay-cc/0xpay-cc-sdk",
+    "dist": {
+        "shasum": "019076d3932d71035ccb1a7433b7295a26ebb71c",
+        "tarball": "https://registry.npmjs.org/0xpay-cc-sdk/-/0xpay-cc-sdk-0.0.9.tgz",
+        "fileCount": 31,
+        "integrity": "sha512-4ANs7eHuFGygcAh/HrKnX55nrFtjJkBrbmmYfkKQPER/1ze5XoGj92yQTBQytSBmLYc7YhFsVMjMHZyhr06KFw==",
+        "signatures": [
+            {
+                "sig": "MEUCIQDmJpY0u+IwsVZ6QjD8tfhKzJ1hhkLYvTB032s3VqpJigIgQwVMEzFf1J7nBGQqxsoJ+td4y3iiqjl8XQn53RqFZ5g=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 37163
+    },
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "test": "yarn tsc && node src/services/privateKeyFromIdentity.js",
+        "local": "yarn tsc && yarn unlink && yarn link",
+        "pre-publish": "yarn tsc && yarn publish"
+    },
+    "_npmUser": {
+        "name": "0xmowgli",
+        "email": "contact@0xmowgli.com"
+    },
+    "repository": {
+        "url": "git@github.com:0xPay-cc/0xpay-cc-sdk.git",
+        "type": "git"
+    },
+    "description": "- **Wallet Generation**: Securely generate private keys and public addresses using a user's unique identifier and a developer-defined password. - **Blockchain Support**: - Ethereum, BSC, Polygon, Avalanche,Optimism, Arbitrum,HECO,Harmony,Fantom\u2705 - Solana ",
+    "directories": {},
+    "licenseText": "MIT License\n\nCopyright (C) 2012-2020 by various contributors (see AUTHORS)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+    "dependencies": {
+        "bip32": "^4.0.0",
+        "ecpair": "^2.1.0",
+        "ethers": "^6.11.1",
+        "tronweb": "^5.3.2",
+        "ts-node": "^10.9.2",
+        "bitcoinjs-lib": "^6.1.5",
+        "tiny-secp256k1": "^2.2.3",
+        "@solana/web3.js": "^1.91.1"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xpay-cc-sdk_0.0.9_1710610562997_0.6645448095472588",
+        "host": "s3://npm-registry-packages"
+    },
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

@@ -1,0 +1,53 @@
+{
+    "name": "0xpay-cc-sdk",
+    "version": "0.0.3",
+    "keywords": [
+        "cyrptocurrency",
+        "crypto",
+        "wallets",
+        "payment",
+        "blockchain"
+    ],
+    "license": "MIT",
+    "_id": "0xpay-cc-sdk@0.0.3",
+    "maintainers": [
+        {
+            "name": "0xmowgli",
+            "email": "contact@0xmowgli.com"
+        }
+    ],
+    "dist": {
+        "shasum": "a622fb38b199b99123c8a52b71445608e4c4e6dd",
+        "tarball": "https://registry.npmjs.org/0xpay-cc-sdk/-/0xpay-cc-sdk-0.0.3.tgz",
+        "fileCount": 25,
+        "integrity": "sha512-GvOz2w/cyrN5g6T/86zi/OCUlDzWGBkGOQZX1QghBpkBnv0nbyPmHBSm5qsYcOOU97TL4jeW0jaXPSTU3IsujQ==",
+        "signatures": [
+            {
+                "sig": "MEUCIQDT2THFfbiLpYiwRISfjsibLkkbxny3Ln6F8AodpGgLQAIgKKDahDf3TTw1KOw2jZelEBv9svUmSPUQVC4Cs6ZYlWE=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 27904
+    },
+    "main": "index.js",
+    "_npmUser": {
+        "name": "0xmowgli",
+        "email": "contact@0xmowgli.com"
+    },
+    "description": "This SDK enables developers to seamlessly integrate a crypto deposit system into their applications by generating private keys and public addresses using a user's identity (e.g., email, UUID) and a developer-defined password. It supports Ethereum, Solana,",
+    "directories": {},
+    "licenseText": "MIT License\n\nCopyright (C) 2012-2020 by various contributors (see AUTHORS)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+    "dependencies": {
+        "ethers": "^6.11.1",
+        "ts-node": "^10.9.2"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xpay-cc-sdk_0.0.3_1710280078545_0.41321048233238966",
+        "host": "s3://npm-registry-packages"
+    },
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

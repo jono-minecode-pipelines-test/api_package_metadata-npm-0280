@@ -1,0 +1,46 @@
+{
+    "name": "0xpay-cc-sdk",
+    "version": "0.0.1",
+    "license": "MIT",
+    "_id": "0xpay-cc-sdk@0.0.1",
+    "maintainers": [
+        {
+            "name": "0xmowgli",
+            "email": "contact@0xmowgli.com"
+        }
+    ],
+    "dist": {
+        "shasum": "80fe5a87949fd4a835b00bb83504fc58ec68fa5a",
+        "tarball": "https://registry.npmjs.org/0xpay-cc-sdk/-/0xpay-cc-sdk-0.0.1.tgz",
+        "fileCount": 15,
+        "integrity": "sha512-etj0eWwdUnsJZYN09c9gKj55wzOj+gfJ1B2JIslFG/XYYMej6RKR7aP//Q/PvsQehSHi2P1kX9eTZyV6YhLgSA==",
+        "signatures": [
+            {
+                "sig": "MEUCIHDOBx7DZHiBWkXKmtnaAdr/abmtG5zFTqsEJhuJowa/AiEAlse92Lkt0btkaX6B5e5fHKbCJjlDf1m4hHsNaFXFA8c=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 21086
+    },
+    "main": "index.js",
+    "_npmUser": {
+        "name": "0xmowgli",
+        "email": "contact@0xmowgli.com"
+    },
+    "description": "This SDK enables developers to seamlessly integrate a crypto deposit system into their applications by generating private keys and public addresses using a user's identity (e.g., email, UUID) and a developer-defined password. It supports Ethereum, Solana,",
+    "directories": {},
+    "licenseText": "MIT License\n\nCopyright (C) 2012-2020 by various contributors (see AUTHORS)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+    "dependencies": {
+        "ethers": "^6.11.1",
+        "ts-node": "^10.9.2"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xpay-cc-sdk_0.0.1_1710252547829_0.04773940455899006",
+        "host": "s3://npm-registry-packages"
+    },
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

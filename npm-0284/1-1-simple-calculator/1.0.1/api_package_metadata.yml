@@ -1,0 +1,55 @@
+{
+    "name": "1-1-simple-calculator",
+    "version": "1.0.1",
+    "description": "A simple calculator with typescript, Node.js and inquirer",
+    "main": "indext.js",
+    "type": "module",
+    "bin": {
+        "1-1-simple-calculator": "indext.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "hira saleem"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "1-1-simple-calculator@1.0.1",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-/7esSP65KVnMn3GvdXZCTYh5xcbAvT8et8Yjdo9dZSvpHVUnztIKkHJoEmirYVcWp3O2O2achZtjLZQBXAsMYg==",
+        "shasum": "12043cc7a12cd622402d3ca44e631598b0184d44",
+        "tarball": "https://registry.npmjs.org/1-1-simple-calculator/-/1-1-simple-calculator-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14883,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHd5K3k7fKidFWdEr6Y1GMDA1ZriOr+TK0T7jJnH4r60AiEAmQLcaWqROOalPr7mJdA4VvYLvUEwbzef6BRgCZdKjok="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "h33r",
+        "email": "h33r.kh4n@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h33r",
+            "email": "h33r.kh4n@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-1-simple-calculator_1.0.1_1711056472074_0.014749810849198797"
+    },
+    "_hasShrinkwrap": false
+}

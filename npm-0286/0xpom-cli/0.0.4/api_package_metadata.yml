@@ -1,0 +1,60 @@
+{
+    "name": "0xpom-cli",
+    "version": "0.0.4",
+    "main": "index.js",
+    "bin": {
+        "0xpom": "./index.js"
+    },
+    "author": {
+        "name": "0xflotus"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "dayjs": "^1.7.7",
+        "suncalc": "^1.8.0"
+    },
+    "devDependencies": {
+        "execa": "^1.0.0",
+        "jest": "^23.6.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "gitHead": "29cff953464550e64b4df4ab1587c1b8bf9bceb0",
+    "description": "Get current Moon Phase",
+    "_id": "0xpom-cli@0.0.4",
+    "_shasum": "dbc5dfe0bd9903af553eb47cc4fc24737618862f",
+    "_from": ".",
+    "_npmVersion": "4.6.1",
+    "_nodeVersion": "11.3.0",
+    "_npmUser": {
+        "name": "0xflotus",
+        "email": "0xflotus@gmail.com"
+    },
+    "dist": {
+        "shasum": "dbc5dfe0bd9903af553eb47cc4fc24737618862f",
+        "tarball": "https://registry.npmjs.org/0xpom-cli/-/0xpom-cli-0.0.4.tgz",
+        "integrity": "sha512-rRJLWilqb2+Db3On8XYRH5FbyIt7lJK1ms3U1nZsD7uWAAvmc7+HqPtIO2ipJjgy0VUYtqk8ziz9zNmJeeHtsg==",
+        "fileCount": 6,
+        "unpackedSize": 3873,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcATxVCRA9TVsSAnZWagAApOsP/RKAp95vaf75Pq2njiwR\nS/toV6gXKoGGbSxRvgjKUmsZymaaJO1ac0HsjemcPvwufDeAI2xuv1WAvXtT\n1HZyynrPWF+Mhh+UkuSGWl7lBerOUUIXapy1e750lzWHfP+9FAs1SFdAIHHd\n/jt1svIs8KncdLeaAkugzmCA4mF0DF/eJudNUx+5nbRl4R016hD2D2T+kaZz\noSijJwmS+PDgaFRWocdfWRI/ACbuWsQu58Oy5SWeEZ1LiEwzexwCV7L0wGAw\nxPzsl83mazUy7pnImlbd1NsKiyvRXNH3EFMhWq9ZCh3Rxw38J7HbB4Zwv/GE\nz2ZLpXNQ+rbW94w0w1oWx3ftxL386nPcHAyY+pyDyv3cql5h+RcO039n9NaQ\nBz1a4wNFb0XM6N+bO640WTclp4DC1vromc0Rv4hletoyokW+osFQtDpqNlCV\nyFqcikfz0onHckNQMHy+FxnB2lN2coEfY5+lqJHuIaAj+nFv0Z4qoZxdhv+h\nKIUK4J+33CLqJq/yvNVqKw2wdNLDVsh9/aabl7Rr0Wo1EDS9VaZ96zYq39qU\noDNfQ430yOAhrbqZ0gT9h85wcixIEOF5S3AHP/ea01ZUoxVtwfT7nH96c/lC\nLcDLQFSlId+1fudeXHOwfGDrKwg59i40ypxMnCLlJu9VZpVjRqCI75ZmKScG\nonQc\r\n=HahT\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGdunXUWtQcvxTAZQbPEAVmg7e+rAlTDrNkwKtGNjJukAiAwK68f6Agz5cM5/2vy34gj3Wjmd+lBrE1XqBVJN+yRRw=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "0xflotus",
+            "email": "0xflotus@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xpom-cli_0.0.4_1543584852523_0.9993390891476615"
+    },
+    "_hasShrinkwrap": false
+}

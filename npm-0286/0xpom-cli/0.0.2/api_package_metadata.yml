@@ -1,0 +1,49 @@
+{
+    "name": "0xpom-cli",
+    "version": "0.0.2",
+    "main": "index.js",
+    "bin": {
+        "0xpom": "./index.js"
+    },
+    "author": {
+        "name": "0xflotus"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "dayjs": "^1.7.7",
+        "suncalc": "^1.8.0"
+    },
+    "_id": "0xpom-cli@0.0.2",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "11.2.0",
+    "_npmUser": {
+        "name": "0xflotus",
+        "email": "0xflotus@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-CN57VhMPwzPavCzg+hDJSCuXZkNe4qtVdUb1dJxfd/RDIklufQtr9o7RMqWDMSMClhARgOWsA5LC9kpa70DqYg==",
+        "shasum": "8d1f86ea1babf86deaf24a49eecc6a148263f4c5",
+        "tarball": "https://registry.npmjs.org/0xpom-cli/-/0xpom-cli-0.0.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1789,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb/furCRA9TVsSAnZWagAAutsQAIh5BFM8fryXYV9bHrPb\n+oH8+CPHutmZNERnj7+vbbKG04Mnx8GJWGVHQRFMGHzuLIWBiZ/DGuLF4I7D\n9xhGuK5dHy0hFs/Ng5QCldWDEN7/0JZL4oXotIPom+6rY7Uk1JqaN8Ov5xFD\nR5W+OsrMf6ivIqzApaxW5ueLyW+A6qxQhrrYzB+9iRYsmVBL75tsQYYE15gf\niYtB/HxKNscT5XLvApDrTWxNqoz9BDqoTV2ufKl6r/SqQ/ETlm5LTeQsqr83\n8wGgtClFlR8Lt8qmPCGKDzASf/AXcE7bsm1Ep4WyWnXSYD5IpmEslJFKbBsL\nRtjYb46TBfky60f+0jFHQJODCGSAS1CM945xNuKUX99gtRJYxsXiu00kyRAc\niCXY/hK5VpHFiMvUOagJw0vaXYhgBNEyPLxxubg6iOW0qyU4ujvwkZOXHknt\nAibVyXidIWiOc06QBpAziqwiy6BIesSCuUeUpbJUizjT8ovD6xM3Q4XSYWRQ\n4IEGN+D6xUP/3b9eyfe8qRa3SwY+yOnbDMnUHPES/tpwhkd0B6nTENsN+rAY\nBgIu/oqLXCSZiI1M12R6zfw5NNEqvKvISBw3LpSNi86TeCmFhdqklCAWSyfR\nmBb5qgg97FpT8fHBwjlqTJdy5DTlaLOOFktrBJQCgLgBxvvClmN+k0sISZxm\nVuAV\r\n=Fde2\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFOepGnu//Hy2sxYy2VpWju3wOX7OsryQ1yBnqLoiCk1AiAoHFL4ATKDvWToRGBoGutebnoihdG0vgV+jbCFexGVSg=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "0xflotus",
+            "email": "0xflotus@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xpom-cli_0.0.2_1543371690597_0.15321468859202092"
+    },
+    "_hasShrinkwrap": false
+}

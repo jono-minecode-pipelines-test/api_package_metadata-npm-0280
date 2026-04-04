@@ -1,0 +1,69 @@
+{
+    "name": "0xpay-cc-sdk",
+    "version": "0.0.8",
+    "keywords": [
+        "cyrptocurrency",
+        "crypto",
+        "wallets",
+        "payment",
+        "blockchain"
+    ],
+    "author": {
+        "url": "contact@0xmowgli.com",
+        "name": "0xMowgli"
+    },
+    "license": "MIT",
+    "_id": "0xpay-cc-sdk@0.0.8",
+    "maintainers": [
+        {
+            "name": "0xmowgli",
+            "email": "contact@0xmowgli.com"
+        }
+    ],
+    "homepage": "https://github.com/0xPay-cc/0xpay-cc-sdk",
+    "dist": {
+        "shasum": "77532012829b25917a002b9ef94acb0816b1140e",
+        "tarball": "https://registry.npmjs.org/0xpay-cc-sdk/-/0xpay-cc-sdk-0.0.8.tgz",
+        "fileCount": 31,
+        "integrity": "sha512-GB8PIl0PBMZHgUlRAnZN2/QJKyu9GRvIooz9Opz2uXbFFeSo+MfwwSOr/VcF+rfRGSM5GnCawG+/JWtntSPg9Q==",
+        "signatures": [
+            {
+                "sig": "MEUCIQDW+dX9Njknfz5cuGHgfn4Knj9I/EMnR8toa1k7neamFQIgF11OE7pxCUaJJtm8wj6Fp4ELgLXTCe1EtdLaHmhi9VM=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 28171
+    },
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "local": "yarn tsc && yarn unlink && yarn link",
+        "pre-publish": "yarn tsc && yarn publish"
+    },
+    "_npmUser": {
+        "name": "0xmowgli",
+        "email": "contact@0xmowgli.com"
+    },
+    "repository": {
+        "url": "git@github.com:0xPay-cc/0xpay-cc-sdk.git",
+        "type": "git"
+    },
+    "description": "An open-source SDK designed for a wide range of use cases across various blockchains. This tool is perfect for developers looking to generate mass wallets, seamlessly integrate crypto payments for users by assigning them unique public addresses based on t",
+    "directories": {},
+    "licenseText": "MIT License\n\nCopyright (C) 2012-2020 by various contributors (see AUTHORS)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+    "dependencies": {
+        "ethers": "^6.11.1",
+        "tronweb": "^5.3.2",
+        "ts-node": "^10.9.2",
+        "@solana/web3.js": "^1.91.1"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xpay-cc-sdk_0.0.8_1710560413868_0.4107565712997794",
+        "host": "s3://npm-registry-packages"
+    },
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

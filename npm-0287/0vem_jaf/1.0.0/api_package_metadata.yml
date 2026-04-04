@@ -1,0 +1,47 @@
+{
+    "name": "0vem_jaf",
+    "version": "1.0.0",
+    "description": "0vem",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "0vem"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "0vem_jaf@1.0.0",
+    "_nodeVersion": "19.8.1",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-u85YD1VndM70Mg8i6vnCI5gmMM3sYX/3f6tE2VkOWst7PKJT34t/dZjyLKYgO4TcUtWfofzFIguwxQSzsxh8fw==",
+        "shasum": "3aacca7115cb7be5f7317a587ee91686dacb3ace",
+        "tarball": "https://registry.npmjs.org/0vem_jaf/-/0vem_jaf-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2342,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFOFyY/T6jMnfkJxTRJObni0DUyYR9ZcHfYJxnvV3kqoAiASxRd50uY7CMe4UemanDV3R48pfBXhmjlv3BNnibIazw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkKuGQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDuA//WYbjRQoKlA7MvXbKHKG9Vfu7GWm/av1mBxtrMJcH5g0rLdU3\r\nZxkYXwpVId1bycNTV83xIH2yIqyeA8q51gbA8y7ruGbu47UpA2gtnBo3NboN\r\nAzMUc+h5H1JzOthWWNiWNQ5g3rtPvuRiVALYY7nbZfhyJTo0ev1c8qfVLiD6\r\nWbVdfXtGwnh0kzyMGBPaRErPUR7Z3fELK+8tGkP2yub3U55ozTlRIMkeemMW\r\n52WH1pkkmjR9JBw0ZUDlLrv3vu1ufhmtoStU0RtVjBkyDSFwoI2rESqqabpZ\r\n3DjkRVokMjFZS2En/0Ue4tGFyy6x6AF8C06GTPbrJvGbNMKVf34K+uQmTgd4\r\nnL7TdsyfgRH2RGER+MfOb9qQQmZsyq5uVJVGHJXtdkMYPHZIaqp+In+we2cm\r\n4epYQQDKWjLLisDaoym2/SBn2UlQJfE5YhTOjAJIu520tiLHq79pdheDeDXQ\r\n4yFoC71Ku8amX5RGKo+COHyHc/yel53/JKYcUYnOy480s1m9D+jm9c4HSUSN\r\nnGAHmW20Nx4pIRxzmOrt5g2NuBG2wIU/tWSCwfdp/b5/lJZcfXrSVXgKXx1a\r\n89qPuQeo+B9YFw4Cjq0T+m2nDwXOdGhbghHD5MMBg9EYNiXyao0M2zz0sdYo\r\ngX5PbvKdoyaQIXGzAPoC8Eu/sbZ9yCfK7VI=\r\n=yHxM\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "icconscurre",
+        "email": "OyUraviweb@mail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "icconscurre",
+            "email": "OyUraviweb@mail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0vem_jaf_1.0.0_1680531856188_0.7035614621336046"
+    },
+    "_hasShrinkwrap": false
+}

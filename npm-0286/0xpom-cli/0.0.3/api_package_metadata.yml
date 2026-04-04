@@ -1,0 +1,51 @@
+{
+    "name": "0xpom-cli",
+    "version": "0.0.3",
+    "main": "index.js",
+    "bin": {
+        "0xpom": "./index.js"
+    },
+    "author": {
+        "name": "0xflotus"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "dayjs": "^1.7.7",
+        "suncalc": "^1.8.0"
+    },
+    "gitHead": "c3de8cea27c36d41b4a5a6020558f9be9c6d3a3f",
+    "description": "Get current Moon Phase",
+    "_id": "0xpom-cli@0.0.3",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "11.2.0",
+    "_npmUser": {
+        "name": "0xflotus",
+        "email": "0xflotus@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-kXAoIDfefjUiuJ0SC4wLSOqMuRBTO1Qn/X1/A0OJ0YBKzJU2gvua8ES+3XX3D+LHq2v7MQUdW/54gOphv5EaAQ==",
+        "shasum": "d4464076c1099415420b32393357e89074ab8a62",
+        "tarball": "https://registry.npmjs.org/0xpom-cli/-/0xpom-cli-0.0.3.tgz",
+        "fileCount": 4,
+        "unpackedSize": 3179,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb/oXBCRA9TVsSAnZWagAAEFEP/2qyYfvyRJuwVNgDLZ1M\nJWAleU5tkmru5NHydwHrjdYixaix9GonMCF+qsZRYdFZLB4WFczmcM4Ultuz\nVk5s8jtgE38cFUfZBr3Lgx+jt8PS2ZOoYuaUIS7Iqq6w3ffMBu6zMzT0QV+K\n8CViucD0AvjWg1AeslA9JkChuNVK6YQSHjz7U8DhinPpGQaVeNELWMgMjJLB\n8h6T0Zvr8lo49ZVPIAMc4A+Y3fzqfUbjOtmxcBIX+oewXNP9liaPAiOVRP2M\nkS1r/4Kt2LpeIpijzKYicb7DOUnZsEotf8oubo2oINQrQvHRqG9H3T5fHet8\n4VhLFT/I468By8U3zPzuIiVV0SCC6tVYfmFHg0U07OOv4UqnvV/MokNLG7Qv\ne/jMJxMCfEXDb9OLmOvGB3GBtaJvlfNnqCnmjwPrmt+sEKxjPT4wknZxWKEo\nW7cxyconfHi6USoP4QQi/opTPOy6GjHI0XpqCDyxmblX2ELGgVCI1qKX6k8s\nDOq7jgshsZviRN1UxWTCrRiz6x/kWfF16UF+TbYx4lSiRtOBKqDpDnQ0Sme1\nRmjvYMoeELNRfifvoUspxfZ14J5hHqkinrW+4cOl2+I5I7hyPLN7eB24ITvD\nOexMSTIcsHFD64paX4MjT3gseHsiF8Uo7IkLt7EEfGAcOWxM95bn67A6j5xP\nbY2i\r\n=waDI\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDvYcOrBcaaCG+Tsm/3WCGMQkBWEV/LkyZUpVc/B3+jTAIgWNapaT97evt2E2C7VVZEwKvbFOYnumpU+Rp1LFWLstg="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "0xflotus",
+            "email": "0xflotus@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xpom-cli_0.0.3_1543407040848_0.9204032685662127"
+    },
+    "_hasShrinkwrap": false
+}
