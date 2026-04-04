@@ -1,0 +1,62 @@
+{
+    "name": "1-wire-js",
+    "version": "1.1.3",
+    "description": "1-Wire USB Interface",
+    "main": "ow.js",
+    "scripts": {
+        "build": "gulp",
+        "watch": "gulp watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KeiserCorp/1-Wire-JS.git"
+    },
+    "author": {
+        "name": "Zachary Cardoza"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/KeiserCorp/1-Wire-JS/issues"
+    },
+    "homepage": "https://github.com/KeiserCorp/1-Wire-JS#readme",
+    "dependencies": {
+        "q": "^1.4.1",
+        "crc": "^3.3.0"
+    },
+    "devDependencies": {
+        "browserify": "^12.0.1",
+        "gulp": "^3.9.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-streamify": "^1.0.2",
+        "gulp-uglify": "^1.5.1",
+        "gulp-watch": "^4.3.5",
+        "vinyl-source-stream": "^1.1.0"
+    },
+    "gitHead": "aa9c1d29b884e231b7af0757cb64ac4e9c68b954",
+    "_id": "1-wire-js@1.1.3",
+    "_shasum": "cbef93c0f52c873bf1b1f7ddaaee4599787032e9",
+    "_from": ".",
+    "_npmVersion": "3.3.6",
+    "_nodeVersion": "5.0.0",
+    "_npmUser": {
+        "name": "bayssmekanique",
+        "email": "bayssmekanique@live.com"
+    },
+    "dist": {
+        "shasum": "cbef93c0f52c873bf1b1f7ddaaee4599787032e9",
+        "tarball": "https://registry.npmjs.org/1-wire-js/-/1-wire-js-1.1.3.tgz",
+        "integrity": "sha512-wMjcvggVFamKTRaSyuPYwb7o4IAMRkLOaluKhhGVCf4gSOFrYh4ArCPnU5qqUj96PiT9wVezDB294uduNDcqZA==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCUwf5Tse/vb3PAhYPkcgyQcMy9xzXNWFU4tZVwIhPxgAIgVK50ahxCzdXh/qD3y9yr9vXPAsysjk9x5ID3f7nvObo="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "bayssmekanique",
+            "email": "bayssmekanique@live.com"
+        }
+    ]
+}

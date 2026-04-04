@@ -1,0 +1,66 @@
+{
+    "name": "1-wire-js",
+    "version": "1.4.3",
+    "description": "1-Wire USB Interface",
+    "main": "./src/ow.js",
+    "scripts": {
+        "build": "gulp",
+        "watch": "gulp watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KeiserCorp/1-Wire-JS.git"
+    },
+    "author": {
+        "name": "Zachary Cardoza"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/KeiserCorp/1-Wire-JS/issues"
+    },
+    "homepage": "https://github.com/KeiserCorp/1-Wire-JS#readme",
+    "dependencies": {
+        "q": "^1.4.1",
+        "crc": "^3.3.0"
+    },
+    "devDependencies": {
+        "browserify": "^12.0.1",
+        "gulp": "^3.9.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-streamify": "^1.0.2",
+        "gulp-uglify": "^1.5.1",
+        "gulp-watch": "^4.3.5",
+        "vinyl-source-stream": "^1.1.0"
+    },
+    "gitHead": "19f4317c72011cdc7279d58b48c21a6df1f88fa8",
+    "_id": "1-wire-js@1.4.3",
+    "_shasum": "9e0ecc0b414282e4490b1e6213c7d568641dab4a",
+    "_from": ".",
+    "_npmVersion": "3.3.6",
+    "_nodeVersion": "5.0.0",
+    "_npmUser": {
+        "name": "bayssmekanique",
+        "email": "bayssmekanique@live.com"
+    },
+    "dist": {
+        "shasum": "9e0ecc0b414282e4490b1e6213c7d568641dab4a",
+        "tarball": "https://registry.npmjs.org/1-wire-js/-/1-wire-js-1.4.3.tgz",
+        "integrity": "sha512-2VtBib7juDQJ0CqIfUU6iJnRCx0YpyisjRih049qYH2pDRwpPss1rIVm09fSY0zYq+pIgxT0wVJjh5UqL9JFTA==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCKbl8dy3zU8I4BfrSsTxt9o4B+281Vg12XeYGeIiB9bAIgMNP1BpQqIjbYU3d+Lok3UDFlltyIbKCaWRl0q7Vf6dA="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "bayssmekanique",
+            "email": "bayssmekanique@live.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/1-wire-js-1.4.3.tgz_1459357536478_0.7582519985735416"
+    }
+}
