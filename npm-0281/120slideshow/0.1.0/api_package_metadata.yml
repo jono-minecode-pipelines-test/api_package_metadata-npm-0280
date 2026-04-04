@@ -1,0 +1,78 @@
+{
+    "name": "120slideshow",
+    "version": "0.1.0",
+    "dependencies": {
+        "@testing-library/dom": "^10.4.0",
+        "@testing-library/jest-dom": "^6.6.3",
+        "@testing-library/react": "^16.3.0",
+        "@testing-library/user-event": "^13.5.0",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
+        "react-scripts": "5.0.1",
+        "react-slick": "^0.31.0",
+        "react-slideshow-image": "^4.3.2",
+        "slick-carousel": "^1.8.1",
+        "web-vitals": "^2.1.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "babel-plugin-react-compiler": "^19.1.0-rc.2",
+        "eslint-plugin-react-hooks": "^6.0.0-rc.1"
+    },
+    "_id": "120slideshow@0.1.0",
+    "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+    "_nodeVersion": "22.16.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-L6SbhM7arGA6qxQKeJQF9VdGHkbjUxx7L2nS1wz5A0zzAg7Mum1aJCC/YV7q0oKT2JO8toWvMMXV2Vo+7mBkMg==",
+        "shasum": "cd39b8ce6694a346efbb2aba353d257a60f40507",
+        "tarball": "https://registry.npmjs.org/120slideshow/-/120slideshow-0.1.0.tgz",
+        "fileCount": 27,
+        "unpackedSize": 103306,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEUCIGN6D7ScFyINToHzWFNHV4I4AykErd018U3GoD6DYsdAAiEA99Se44ga95vZsV0+agdzjFAeYlcC//G3j/SCcFR2jXY="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ibalp",
+        "email": "ibalper@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ibalp",
+            "email": "ibalper@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/120slideshow_0.1.0_1756242189561_0.7514224986461406"
+    },
+    "_hasShrinkwrap": false
+}

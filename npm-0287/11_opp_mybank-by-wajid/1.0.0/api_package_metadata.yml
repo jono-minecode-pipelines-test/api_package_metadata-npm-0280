@@ -1,0 +1,48 @@
+{
+    "name": "11_opp_mybank-by-wajid",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "11_opp_mybank-by-wajid": "Program.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "11_opp_mybank-by-wajid@1.0.0",
+    "gitHead": "86085675dc4e19f96149e361d4b5b5e876ec9578",
+    "_nodeVersion": "18.18.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-3lpH1cdZYAbEt96R9MM1E5MfBDo2bSmzhHCu0xJso82PP4wUNRyFJqgvl1EzFHq/P4sUra1nPY17kH4cGZcokw==",
+        "shasum": "d1a53dcb577f12b5432631eaee5905857854b986",
+        "tarball": "https://registry.npmjs.org/11_opp_mybank-by-wajid/-/11_opp_mybank-by-wajid-1.0.0.tgz",
+        "fileCount": 10,
+        "unpackedSize": 16627,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDJIW2Pe5oZofIy6bjVh/XvrIOZCZG4rDW9g5a6U9OToQIhAKCJM88wfNcIJJJhji4wpEr8iOjoO1/KdX3PfOHivDKP"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wajidali11",
+        "email": "wajidmaitlo124@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wajidali11",
+            "email": "wajidmaitlo124@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11_opp_mybank-by-wajid_1.0.0_1716917008401_0.684440590709454"
+    },
+    "_hasShrinkwrap": false
+}

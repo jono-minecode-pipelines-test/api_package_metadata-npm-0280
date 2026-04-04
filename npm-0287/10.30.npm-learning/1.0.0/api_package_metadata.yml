@@ -1,0 +1,47 @@
+{
+    "name": "10.30.npm-learning",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "angular": "^1.5.8"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    },
+    "_id": "10.30.npm-learning@1.0.0",
+    "_shasum": "2b604781429e7cdfc883086d9607504aabd6ee32",
+    "_from": ".",
+    "_npmVersion": "3.10.8",
+    "_nodeVersion": "7.0.0",
+    "_npmUser": {
+        "name": "ryanzhao1993",
+        "email": "ryanzhao1993@qq.com"
+    },
+    "dist": {
+        "shasum": "2b604781429e7cdfc883086d9607504aabd6ee32",
+        "tarball": "https://registry.npmjs.org/10.30.npm-learning/-/10.30.npm-learning-1.0.0.tgz",
+        "integrity": "sha512-7REFabQPdUN1/AmXHPbIMoIhIantDwqQjwJyFZbwq7Weu1ddntv9SDbpIi2zF26uPT4bndHZpHO8i2G9qhvnsg==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDixe1B7UDEMnvM9tjsYQuRmHinp+Cq4JXKb9fId9PYfQIgRrF8kRBMmgRoPvb802KTUT97oVKVzHSaakt2OqHdPLI="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "ryanzhao1993",
+            "email": "ryanzhao1993@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-18-east.internal.npmjs.com",
+        "tmp": "tmp/10.30.npm-learning-1.0.0.tgz_1477813537831_0.23765911650843918"
+    }
+}

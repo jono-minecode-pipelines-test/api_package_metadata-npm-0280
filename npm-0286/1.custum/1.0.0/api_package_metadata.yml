@@ -1,0 +1,43 @@
+{
+    "name": "1.custum",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1.custum@1.0.0",
+    "_nodeVersion": "22.15.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-BY/yevSB7Csz3uLBIhzJ9Bfk05eiW1Zd3a1oVJRqc77zTZ33XC7ddqv55/LOGE4RD9FmFfhrCXAb4qq9/EzVnw==",
+        "shasum": "24f6f782d07ff89887feadc5c03299ded7c4da3e",
+        "tarball": "https://registry.npmjs.org/1.custum/-/1.custum-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 380,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIBdVChiUiDwTee7jhvamiiCMwvCuLR78znTKnW0S4elbAiBrtn6BDjVLoOPLHlet+Fp7y1APk95mA2yfDPp/5ozY+Q=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wuyuanwen",
+        "email": "382256120@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wuyuanwen",
+            "email": "382256120@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/1.custum_1.0.0_1747378443232_0.37595986784008795"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,58 @@
+{
+    "name": "12-mybankproject",
+    "version": "1.0.0",
+    "description": "Welcome to the Bank App!\r     This application is designed to simulate basic \r     banking functionalities in a digital environment.",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "12-mybankproject": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/chalk-animation": "^1.6.3",
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.20"
+    },
+    "dependencies": {
+        "boxen": "^7.1.1",
+        "chalk-animation": "^2.0.3",
+        "inquirer": "^9.2.15"
+    },
+    "_id": "12-mybankproject@1.0.0",
+    "_nodeVersion": "18.18.0",
+    "_npmVersion": "10.3.0",
+    "dist": {
+        "integrity": "sha512-xN8rSDKJCtqz7hKBQbXf1GZSnmXwaE8d3I3rb9M09Din1phWT9sbZ7bhM718s6XijiXGSfJB38tEerQrdUTMVQ==",
+        "shasum": "1b2fb8ca402777a4249b236ccd7aabff2233266b",
+        "tarball": "https://registry.npmjs.org/12-mybankproject/-/12-mybankproject-1.0.0.tgz",
+        "fileCount": 11,
+        "unpackedSize": 40019,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD25axTz3Ek64AAp9zhZXmQKO11b+fUZPy2zfewd6fEsQIgfFT5ZBUZU5YNbBPFO7+8+wShQfnrhA6mNEhWq2Hp2VI="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "anomasahar",
+        "email": "anoma.sahar2001@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "anomasahar",
+            "email": "anoma.sahar2001@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12-mybankproject_1.0.0_1709120042667_0.9067851536136733"
+    },
+    "_hasShrinkwrap": false
+}

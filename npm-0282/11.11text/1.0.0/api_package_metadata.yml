@@ -1,0 +1,45 @@
+{
+    "name": "11.11text",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "_id": "11.11text@1.0.0",
+    "_nodeVersion": "16.18.0",
+    "_npmVersion": "8.19.2",
+    "dist": {
+        "integrity": "sha512-XsYSB8rwFXNlAwwQ2zey6xePYSS/wi/RWcf4ydtwcmvSh/yl4pQP+Y1DrhOGxfJaSUq3ujtSm8VUPpY052tF6g==",
+        "shasum": "6d1fdc33d9b78dc224dccf34bb10607cea22c4c9",
+        "tarball": "https://registry.npmjs.org/11.11text/-/11.11text-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 1248,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDKk4KPMQ7Ya/oJz+RNSa/jWxdJd/USk9HsFbZ1OO3HtQIhAMam7u0AUz1sUP4Omog8AIZ7hAVVmXGrHt+ZODAS4aDy"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjbZ+cACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoQdA/+Mlr0bGsoTjpVcYBIwZDWbC8YwrNxrr2J9Pk+S2wCbS5q9oCM\r\njD2tQLxihm05LE/L3zrT4cWNmsqI+dT9xww9d/08TU+uxVWQE8yJjrd8+erW\r\n/ZlsKBkuRfWSnAsunmbsBWzyXCS95KfrcbdffIaoZ+sdYiyY9/xCW7QXAMGP\r\nEMKmp5CFwFKj8xZ/HTzImSKTTwBpreeEmO2ueKFx10LvO1d+yih3SAKOWZ3I\r\nDxXqskkEKGPcNrvLk5aOVISBLp0UbyjdlJnUi44jLLOBnuavcNDA5Q1aQlUR\r\nR0UOKNT/oytcL6zM5d64JsbzENbcDLFrJyUHE1zAcI89Hjvz2J4BfWOwmycd\r\nRUIIrR0oualIBEMSagg6bxQGOaBRMjTSmmLak2eHKgXzeEFKV1YvXCe0RKyn\r\nUmXAujDL6bX9Vm7uxIvxg1rBAv0Zsgy7/faGKx6dDYK5nwLW7GK4MLt+NPeW\r\nkdbZrLn3zvymuZT/5vApwNgiag6xkgS7WlImXPZg0M8pLUXTIL6fvE+kpCGI\r\nrQffZXaPY6r8NbHzpU2Bu2e+oCJfnNjWKtX7Xi8SBYZbibRM+BjpUKEyIbdP\r\n2lyqtPLrCasbAdpEc9u38BrhLtGHJJyPAVwnqeaIfEAaxXswKOV8baOcNmNj\r\nyfxwcaXACK73y3lhPp7xlaZUK/DqBS16uDk=\r\n=Jwel\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "ylh18235064535",
+        "email": "1239954907@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ylh18235064535",
+            "email": "1239954907@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11.11text_1.0.0_1668128668334_0.6495222095666646"
+    },
+    "_hasShrinkwrap": false
+}

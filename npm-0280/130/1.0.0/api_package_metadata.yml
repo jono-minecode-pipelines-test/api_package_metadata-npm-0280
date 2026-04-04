@@ -1,0 +1,42 @@
+{
+    "name": "130",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "130@1.0.0",
+    "_shasum": "b948e15dea1e1648f8f70f0098dccde07f8dbb54",
+    "_from": ".",
+    "_npmVersion": "2.15.1",
+    "_nodeVersion": "0.12.17",
+    "_npmUser": {
+        "name": "liuxiaoyang",
+        "email": "1641762512@qq.com"
+    },
+    "dist": {
+        "shasum": "b948e15dea1e1648f8f70f0098dccde07f8dbb54",
+        "tarball": "https://registry.npmjs.org/130/-/130-1.0.0.tgz",
+        "integrity": "sha512-JVf34vLtPZH4sk+jnFGs6du9iXUYII3WMQUTFvY/E8q8O7G9GId/E9CR01IKzi5yfCrqMYfCiuOKw0gKIicunA==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCsgdufo7wjKkGvNEEaSCAlPnRYmfkFZRfCySs1YMIT+gIhANV1cYDlGwh33klQTGIv8yl74Xpt019b2uf99KVvWCzf"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "liuxiaoyang",
+            "email": "1641762512@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/130-1.0.0.tgz_1483263280507_0.3980037276633084"
+    }
+}

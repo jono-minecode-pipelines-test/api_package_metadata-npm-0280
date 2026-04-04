@@ -1,0 +1,48 @@
+{
+    "dependencies": {
+        "moment": "^2.30.1"
+    },
+    "name": "1.7week",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "_id": "1.7week@1.0.0",
+    "_nodeVersion": "18.16.0",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-EDbGRvL9wGJOud1xygUu4huqJ7nqKf/Coa53guAVcaSt2WJoIjkbGjiXS/YEZP5PTCMM6NA0tDALHhav+cV2Aw==",
+        "shasum": "e4b1c62ec702c65a0d7b32a8d2ea9920b6c8b114",
+        "tarball": "https://registry.npmjs.org/1.7week/-/1.7week-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 864,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDPaD0AvhTjON2uCT5EQ83Tph0jhwa4FKyCZtl9VUPtnwIhAJJZwGLCQwVBmNlM63vQxSEbFI3MzeBMuhARPCOROT/h"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "lizhaoqi",
+        "email": "1959642887@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lizhaoqi",
+            "email": "1959642887@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1.7week_1.0.0_1704629227318_0.06095784856380426"
+    },
+    "_hasShrinkwrap": false
+}

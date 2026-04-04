@@ -1,0 +1,61 @@
+{
+    "name": "100-prisoners",
+    "version": "0.9.0",
+    "description": "100 Prisoners and a Light Bulb Riddle",
+    "keywords": [
+        "100",
+        "prisoners",
+        "light",
+        "bulb",
+        "riddle"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "Kamil Mielnik",
+        "url": "http://kamilmielnik.pl/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kamilmielnik/100-prisoners.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kamilmielnik/100-prisoners/issues"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "underscore": "^1.8.3"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-jshint": "^0.11.2",
+        "grunt-jslint": "^1.1.14"
+    },
+    "gitHead": "482dad16282efc4b1153f3f8b8d3389306ad3fb4",
+    "homepage": "https://github.com/kamilmielnik/100-prisoners",
+    "_id": "100-prisoners@0.9.0",
+    "scripts": {},
+    "_shasum": "bf470d09f2d6428ea178ac58fe667f33d698e57b",
+    "_from": ".",
+    "_npmVersion": "1.4.21",
+    "_npmUser": {
+        "name": "kamilmielnik",
+        "email": "kamil.adam.mielnik@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "kamilmielnik",
+            "email": "kamil.adam.mielnik@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "bf470d09f2d6428ea178ac58fe667f33d698e57b",
+        "tarball": "https://registry.npmjs.org/100-prisoners/-/100-prisoners-0.9.0.tgz",
+        "integrity": "sha512-talFV+knhkT1Ey3xkfmt/Ov7Nrtjs/+6ND7TmcpyzRezyFST+N1PZ6twE5CH1xQRPJX5mZJherRkCNgymMjKIQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEy1tcOX4Kqa/gLKvC25rVmjwxww/2lpasAtepthTGeLAiEAr487S6eicAOoj2tBRZHHEaT+rUHQ9t2aWYtQhDdOAZM="
+            }
+        ]
+    }
+}

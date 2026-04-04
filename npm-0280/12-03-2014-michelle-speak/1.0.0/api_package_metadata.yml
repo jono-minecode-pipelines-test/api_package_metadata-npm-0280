@@ -1,0 +1,49 @@
+{
+    "name": "12-03-2014-michelle-speak",
+    "version": "1.0.0",
+    "description": "this is my first node module",
+    "main": "speak.js",
+    "dependencies": {
+        "moment": "^2.8.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "moment",
+        "speak",
+        "first"
+    ],
+    "author": {
+        "name": "michelle",
+        "email": "michellelfloyd@yahoo.com"
+    },
+    "license": "MIT",
+    "_id": "12-03-2014-michelle-speak@1.0.0",
+    "_shasum": "21d954a5f118a0ca08a779cf2297dff11bdf4124",
+    "_from": ".",
+    "_npmVersion": "1.4.23",
+    "_npmUser": {
+        "name": "michellefloyd",
+        "email": "michellelfloyd@yahoo.com"
+    },
+    "maintainers": [
+        {
+            "name": "michellefloyd",
+            "email": "michellelfloyd@yahoo.com"
+        }
+    ],
+    "dist": {
+        "shasum": "21d954a5f118a0ca08a779cf2297dff11bdf4124",
+        "tarball": "https://registry.npmjs.org/12-03-2014-michelle-speak/-/12-03-2014-michelle-speak-1.0.0.tgz",
+        "integrity": "sha512-rbOeg4zhLZ8BL74fe60jFH36/pII89gVs33d0C+eBqX3pakhIe+XnXR2K4mACKbQv7452icD0IYiFrlq2HeNVQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIDBaw+cm1SxuHnPSUS8pYu6S658T4T7A4FiB8mTqbpJZAiAi+MwE08GCJjy1YUXg/IKwTPj7GTdPLwFI4Y/tARxygA=="
+            }
+        ]
+    }
+}
