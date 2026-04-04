@@ -1,0 +1,66 @@
+{
+    "name": "0console",
+    "version": "0.0.1",
+    "description": "Patched console functions with improved output.",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon test.js",
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/simple-works/0console.git"
+    },
+    "keywords": [
+        "console",
+        "color",
+        "status",
+        "level"
+    ],
+    "author": {
+        "name": "Ambratolm",
+        "email": "ambratolm@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/simple-works/0console/issues"
+    },
+    "homepage": "https://github.com/simple-works/0console#readme",
+    "dependencies": {
+        "chalk": "^4.1.2"
+    },
+    "gitHead": "4f7ee44ddbb9bf76bc1dd9f8cddfa4ef3e085663",
+    "_id": "0console@0.0.1",
+    "_nodeVersion": "13.14.0",
+    "_npmVersion": "6.14.4",
+    "dist": {
+        "integrity": "sha512-B6GoTlmgj/h0HIPPdo3hnN9MHMdNutJSc85ZjDV+8PiCfxCreaAj3VLKJ9lis3lfGXDS6eYzRWNt8KsNsnTEhQ==",
+        "shasum": "a781d629dcfe46a9fdeb9a029f9b0a1a1b6d01bc",
+        "tarball": "https://registry.npmjs.org/0console/-/0console-0.0.1.tgz",
+        "fileCount": 9,
+        "unpackedSize": 450148,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiJFHEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqU/Q/+OdXNNDArUMOkB6neccpyCOouEp2n6Y0cP6Cvk9jh+V+LbA9/\r\nlhSFzqa70oqTLCQPHc2W9MBKOfOMJI/UiE6XX28jl7H01L5r4UY7sXWjKxGr\r\ndbgwVoIXskV/EJEw4euMSr+0e4lfTYnKHOZilWUqOii33RQjLVA2j+a6RQSj\r\nuHWs2HXMavLAQE0YeipmcOppqSiO4ovkXAPWDC/at0pxcwk9vpsiR5oq0xt8\r\nciyRKPqCUIipVVBVunmiQrA5eqvpezJLpwABIsVfJzU70LzRaQ98xBTEOf2m\r\n/7c8evFS1l4zI12OIDGLYSbHhDdmuwfX/9Di5gul6Kl1tDi4guRE27BYIJaA\r\nKROU/UNB1ujF5XRsRFZwOVMAc/qyawSG9eyxD5ekguKnZ+MRHEd1cuoGzZWK\r\nozaNUEL+t8zCKQehn9ntt8cjtlxOQRu9Ifrp2FvJJ0TK5/8vt9rTiNNRcWRS\r\nhoN8KbxFrQ5LPvNW2FWM50kEpSB7dP344jPsnUfIb6JMJE2fllK7i5OduV+x\r\nbVsgGydy8G0By3aEsFLZ37YpRMXwtrXwJJTx9Gld6uiE/Hu/2WsIoRWSKy9W\r\n+dmwue383dQcwtxjDYoDiZVCfhi9EJovVG3rViMmkjHxews//SmcT23vXFdi\r\nYXr+kXIngJCMSG93z4EeDSj0pUsfO6Zj+5Y=\r\n=KZep\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIB4aNMyFs0SaZ6R3yXmWAwthpNXHbXpEcVmENNz0XkW2AiEAl9XVq2oBjijXTR2N3KS2S+0BLAV3B2bj8DQQoQM3fTQ="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ambratolm",
+        "email": "ambratolm@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ambratolm",
+            "email": "ambratolm@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0console_0.0.1_1646547396745_0.1879676438889133"
+    },
+    "_hasShrinkwrap": false
+}

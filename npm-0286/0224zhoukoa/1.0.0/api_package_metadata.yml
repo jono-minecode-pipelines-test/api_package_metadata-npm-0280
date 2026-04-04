@@ -1,0 +1,48 @@
+{
+    "name": "0224zhoukoa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "home": "src/home.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "0224zhoukoa@1.0.0",
+    "_nodeVersion": "14.15.4",
+    "_npmVersion": "6.14.10",
+    "dist": {
+        "integrity": "sha512-+9Q9mdCf3VOEXpCkH0obc5Pjfj0PWKDxpFM0SSWlmcJ/K3s+oUt1TZAkCi+Y4pqYP/mioXUub9I6DWlVk5fRlg==",
+        "shasum": "6c6a27f75b0ba294da60f2a5ef557f344079d5cc",
+        "tarball": "https://registry.npmjs.org/0224zhoukoa/-/0224zhoukoa-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 700,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgNapFCRA9TVsSAnZWagAA0jAP/jGYkbezm/NxohvV8LEd\nEztFcZVDc6qiLIsz0ppp01NwN2yDAd3bcVJz9sCmlF+t6k47AI+J9FMHiczN\nWa3Qqpt7JutsKX354bDaaePk5Jlnn34ZN+au/j909Iekb69V6AUdEMoVyL3o\nkufJQJLzHikIqI+jv6+TOaIPahMGyQrOzRngewrwR5yUeViAXLA2ji1RR8j5\nVY57GasVu5F5s4H2hfx7QTJvys4EHmLbTlI6NBJbbmdKeo4tYoR7/WRKNkvp\nnb3ZE1iQ725h2UFMCBJIrRZB4UBday1sl9viGsrWH77cGw9wpYwXeV3ZG0mZ\n+fD8M8Vt3opIDDLZ0J4tWfhCdxsAgdjvZEIl2buJBfD7j9Wqlv+cy9RJDIiG\nCSvEqVsW3BBjHOY6J2r5G2Awv7yLI3SI6CpyKtjo+kHx1uF6MdKYYjHXK58A\nSQ9DWnihfDfdXZYDef6hefleKLEaC89Q5cmle6k4l+oh8JWTdAZfY5qPqNXP\nlZWIzdJuJ/bWmeYoxS9tqOhq92u/S03BxNwxzlwoudyiJ5qtZfRlare+URVA\n16Telij88k37tlTZgLMCWXd6Bwwaj9JWz2uH8cpVjtfZ1wghfFiUJWlRXnOI\n9kA7zn0+2h9VzNz2R9BrIR1dAK9lApses+fCC1WYeI/EYmaoUmadJE7kM6DY\nj2wB\r\n=FNiP\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCjHM7PMxaIS7s31dbxTZdZsrQAfmDf3CyaGgwsiidtLgIgFdfbx/WCs+QyoaeHJWTdY1EoI2m+o41S7bFPmflhpOU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wangbaotu",
+        "email": "2022941074@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wangbaotu",
+            "email": "2022941074@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0224zhoukoa_1.0.0_1614129733316_0.1446315580152724"
+    },
+    "_hasShrinkwrap": false
+}

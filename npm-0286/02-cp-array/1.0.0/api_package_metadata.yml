@@ -1,0 +1,50 @@
+{
+    "name": "02-cp-array",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "array",
+        "cp-array",
+        "\u6b66\u6c49\u9ed1\u9a6c\u524d\u7aef",
+        "vue"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "02-cp-array@1.0.0",
+    "_nodeVersion": "16.15.0",
+    "_npmVersion": "8.5.5",
+    "dist": {
+        "integrity": "sha512-RMTCo7P4gXF07CxnmEQx4bXJJwr5Gqgzt4j0zE7OkEkKS1lm+g3W8CcVmGI4zTIFIsuoUMppbha8Odedp6stBA==",
+        "shasum": "53efc1a5dcdd204686d00dbb8eee12550bb4a495",
+        "tarball": "https://registry.npmjs.org/02-cp-array/-/02-cp-array-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 473,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQChw2daaWpRAZIopP1QCJzsIjLhLhViwwmsD0QgH5XuwwIgXGnRj5oUzLdpsYKyiurH2W/am/6qGqOTICBHgjT7Tvg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjWf4NACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq/nBAAmyi1swY/RylRm5FqKpIaz0IyF7yrL3eTanpk4OVhpC++gW9G\r\nUl7qyJDtvtAVWSMi8QhC7z8MD+OyrOdZW3XGYXAdyM/hTb2kuYhFjdMeYZLI\r\nih4Ncp8ALuiFfvSAK1BAunokJ5E3t5qvMfK+GMh8FMrJ6bZzO6VaZ5hqKOZO\r\np4KURopnngJrBt6f+ImM+tPk8aqKhUW3wJJRoYkcqc+lnFlbmPt8OzY8UFhT\r\nJVHJ6eikNsbvNlSpxsrlGQvThZdKW388KX970Q5BiNYBPs878PXSkw43aQfD\r\nkKfyI7Ju3gkqA6l1qSY6ITUc/zEn47LMXu5cvxGYGFcVJdZb5prc4svbY7Ja\r\nh8XPvGOa1raH1jocTvjix2FkyAo4oy8+lLPzo5jEkZuyJ49lVvyvsGc6JfIs\r\nghtFmvHT1Ha+dzCBQ2M3rInjX5hcrsB1jmnZW8USiCW/lbpsm4awbOGI9+FR\r\n5r+P11YuodOny8JkHRddpPNgnFX7DvwLlQfLvOIyu2YrMbrtRty048S9qO36\r\nklQpOTRCzsPmK3JAnfK2IHzKx+wx1ChnNXUlprY9V2L15M2Y4+9C5hm5K5lj\r\nLa4PLo3CGLKIHN77b43GOGWCOIvutSlRMHUWuS44Vxw/K8kBjh0+0U20Bz3r\r\nPo+QaqY1sLdzNm4+uttFK+dNJ3eWr0c0U+M=\r\n=dJjR\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "xscp",
+        "email": "3285808110@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "xscp",
+            "email": "3285808110@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02-cp-array_1.0.0_1666842124978_0.1697999220751285"
+    },
+    "_hasShrinkwrap": false
+}

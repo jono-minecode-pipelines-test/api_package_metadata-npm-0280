@@ -1,0 +1,47 @@
+{
+    "name": "000.objects-online",
+    "version": "1.0.0",
+    "description": "functions",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "shama naz"
+    },
+    "license": "ISC",
+    "_id": "000.objects-online@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-QzuETZVKMQh4uBTgMhaMa1wSsRgItAJBfh6crFUo4RO3cMXLUnoIyNb3t9QSEkxyLXvRVIuOO9/RA6kQbcehrA==",
+        "shasum": "bed3dd16bfd881f93a2e0d7549bc474fde97a183",
+        "tarball": "https://registry.npmjs.org/000.objects-online/-/000.objects-online-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 18994,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHpd8x10yvuonc/jmhthfyo3YRgngnJ7SFShekFZ6Si8AiAuN1kxVN7/d06XKFqvu7yA3sA30ibi6w1mYQqVb2rqSQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "shamafaisal",
+        "email": "naz.shamafaisal@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "shamafaisal",
+            "email": "naz.shamafaisal@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/000.objects-online_1.0.0_1721289872400_0.3589461123928459"
+    },
+    "_hasShrinkwrap": false
+}

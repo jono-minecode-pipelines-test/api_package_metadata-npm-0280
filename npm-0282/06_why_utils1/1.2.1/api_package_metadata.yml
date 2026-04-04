@@ -1,0 +1,48 @@
+{
+    "name": "06_why_utils1",
+    "version": "1.2.1",
+    "description": "a javascript utils",
+    "main": "index.js",
+    "keywords": [
+        "math",
+        "why",
+        "format",
+        "coderwhy"
+    ],
+    "author": {
+        "name": "why"
+    },
+    "license": "MIT",
+    "_id": "06_why_utils1@1.2.1",
+    "_nodeVersion": "20.10.0",
+    "_npmVersion": "10.2.3",
+    "dist": {
+        "integrity": "sha512-QDYhkc6DI0yVd5f2ucxx+k3ueK6RMYqvXM1w366D4shCBW0b3TDzDZf75xAGJ7QSs0Tpzk+KxBe7McITzAO0fg==",
+        "shasum": "d0d41e35351b02c4f8a433d54f28d7e71cc20b19",
+        "tarball": "https://registry.npmjs.org/06_why_utils1/-/06_why_utils1-1.2.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 585,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIALdIkMkwzThdbPDxXqhX9VA55djCyIqwzhJqy0YU1mmAiB73SKMcBqGNpLUny2q8NetrcmuTM3EuTVuzZ3xCOzyZA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fishsunflower",
+        "email": "18101797582@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fishsunflower",
+            "email": "18101797582@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/06_why_utils1_1.2.1_1703053709187_0.704444550083078"
+    },
+    "_hasShrinkwrap": false
+}

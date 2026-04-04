@@ -1,0 +1,51 @@
+{
+    "name": "01-jyd-tools-r",
+    "version": "1.0.0",
+    "description": "\u5168\u4e16\u754c\u6700\u725b\u7684\u9879\u76ee",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "jyd",
+        "tools",
+        "fn"
+    ],
+    "author": {
+        "name": "jingyuandong"
+    },
+    "license": "ISC",
+    "_id": "01-jyd-tools-r@1.0.0",
+    "_nodeVersion": "16.15.0",
+    "_npmVersion": "8.5.5",
+    "dist": {
+        "integrity": "sha512-c8KGSdbH8+BW37NavrWAfd+jNWVNe/CCUIM8MDDaXj+cMZRaYVWO0USm3I4JubAbcvrOtozjbG+HItvW9CIBRQ==",
+        "shasum": "da3065dc3c0e040f7a4676b3bcaad091d9879a6f",
+        "tarball": "https://registry.npmjs.org/01-jyd-tools-r/-/01-jyd-tools-r-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 631,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCVxcb0tzfDD60j5A45MTXuTuZU2zt9q2dybsD2syqd6AIgVxPTuqczSfv2S3+QwN9uqh0UMR8mdVJKlGLYpBsTCmQ="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi5johACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoO6BAAgAKwbDL+GAujDhDNUcor60dOM0Dxwg7zOtCku1P9T9FLWHvX\r\nM6c0Rd/XhzSwcGysal+CbEncenx9jrglSo9AC9YUvUWso+pEiV1p1UtyTgDg\r\npA/ZE9wYTAeHNFtg6cOMZuzVq64qRtgIMWHjSAXyXHXSyAznNIkI0VqTHYmR\r\nLZ8TOiKYvB2XOaWU8/0EfCmSMsdMsTSvDJQrKf3fKXldkWCZ3BEpgpgIpoFw\r\nhNLE6UKgK3eq0Xa85JZ30PBZDeINwKdcmWmWrVvuSG5v3BZsVo/7BpgI+kUc\r\nJ3tYaxBZ2Fv1phv/ECqo6R9fF9+ep0dIOhhOAxNcYVy5sYFP/8hDyuIb5lMN\r\nnugaqWw0Qqd4cVrGiZRidbHLnb8h5dkvOhgDGXmKd091udUVI8mT/1iDEv3+\r\nQ+r8U4UHnumCkLQoDAAYfrgGQxHF9Qf0RkzfAfekZZAAKiK8dS3fuqFzFm45\r\nTsnXtD/RWf6eKwLpgTA6s8+Swp+v9+bRVCzFpCQEZu9IL27k1FU1rNoSmHkS\r\nXG/9RsymnsSAd/fdgELYPq7HIlXeKz1V6Jskwo/VTMNEUNefapSrwJZ6EeUb\r\n268smgYY4ls6SAV7wAXqa//ztfx2NzMlxrliVBwt4hzG7IUyPbsCOEgLxtnu\r\ncFgUJXRYXq2T03SresPGJwYY4yv5vPHTPeQ=\r\n=qkfw\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "jyuandong",
+        "email": "jyuandonga@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "jyuandong",
+            "email": "jyuandonga@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01-jyd-tools-r_1.0.0_1659255329085_0.5889027317221658"
+    },
+    "_hasShrinkwrap": false
+}

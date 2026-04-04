@@ -1,0 +1,51 @@
+{
+    "name": "0825mytest",
+    "version": "1.0.0",
+    "description": "\u6240\u6709\u7684\u725b\u4eba\u90fd\u6709\u4e00\u6bb5\u88ab\u4eba\u72c2\u9ed1\u7684\u5386\u53f2",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "\u72c2\u9ed1",
+        "\u6240\u6709\u7684\u725b\u4eba",
+        "\u4e0d\u592a\u6d6a\u6f2b"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "0825mytest@1.0.0",
+    "_npmVersion": "6.2.0",
+    "_nodeVersion": "10.9.0",
+    "_npmUser": {
+        "name": "crazyfamily",
+        "email": "499855075@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-hOq4MUo8tGMfDM7UrZ/Gm7jRbMEwnZpi2qAKYTnsY5bNq8vVG3YxyOXJjH5S3ThJZlz+baWc5UVuQSQsZobS5g==",
+        "shasum": "c346e3ee574f19f3bc7553fc55c24f6b29366e77",
+        "tarball": "https://registry.npmjs.org/0825mytest/-/0825mytest-1.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 1109,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbgW0oCRA9TVsSAnZWagAAnvYP/3Vba4krJIHwC+sp7M4x\nod8oJeBPL1QH+4JMQ+IvBMiw22BvzCJ+sCtQ9Hj7s/IoTL/RE2dFW+pDZz4T\neE1XAXVX3gFmQ9WEda+KHySEpS/r+Zi99+MRKromdXpLWdJGq8c6SCU+tuBE\nB2N/qfbuw5HjkBlLh4GmbB2q9DcJ+5XBi8RF5LGm50fAZg1f6ZCCPwBWOUmY\nOeqhWqEEdKYfHk64SIuXSSHeJCX/p484WaDrGAnhI7Uj4HrqwErP86sOCw7/\n+6C51i2zxJURI55uotZIjKFqs7ZVotlHEMebUGWA8z+QpSy0+QA9HX4kaywV\npeZHYVHnEKdF13RAEhQe4SJsjtKgbmgQqHHBQROIp+lGoAZJsXkrLPjo8H6T\nsGZfZbmMEu6gFiQnSsbYbcKY72GsmT5Xh96dmX07TANAQo4fHophmiTbLurM\ntl+7UbZip7ZIsJ8kCWNHpIRWQgWxquPtjKWtPDkZES6ZER+OCr47sMcqnRIb\nlESxdYTCRBJ7sxi+EV8thH12+bBCYPq/+h7yASIvE9IqlDzvlMDoPCaQIT8d\n5OYZ0AZBfxdndcrwR2EFg2+uY/pbcG3vlBmzZEQ2ddgPF9IegVmOmkxPXt6Y\n/MbFiQaD63leRrPh1+3LmCFlWAm5a4U39DCW55zS35Chuj3tZGox0dIKVa12\nIiWY\r\n=HNR5\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCDSGz35inlKgz0SKKpZ/8J8AnB/BuwFFd6j57GHssvLgIgQ7w6l7ucApZwRA9TwJbbExqeAWwROPvOhdFFxgUr+VA="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "crazyfamily",
+            "email": "499855075@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0825mytest_1.0.0_1535208743821_0.15035341390851786"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,49 @@
+{
+    "name": "02-module",
+    "version": "1.0.1",
+    "description": "jkktest01",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "jkktest01"
+    ],
+    "author": {
+        "name": "dd"
+    },
+    "license": "ISC",
+    "_id": "02-module@1.0.1",
+    "_nodeVersion": "12.14.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-0bal+kV7N058FLpQ0AAs5LkQXioXXex+/ga1Tu6EVCn5GljvLrRyaMHc493c5Mjn+iH53mdxLm052z1ZpB9/Hg==",
+        "shasum": "079413c6c64153215bee91a5141a0e280ddc4f0f",
+        "tarball": "https://registry.npmjs.org/02-module/-/02-module-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 963,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfgBTVCRA9TVsSAnZWagAA2BsQAJeMDC1NiIrNlfaFqgWQ\ntCtFJNktpFrWYUHNWNwKSGIVWKQ51eYEqme/n+rEPWIvgEwm/sfF8Hr9xNS0\nsjR/RfV3bOKegkypIN3+FiJS9coKixTVDS2OpETLyu7VbCbI/A0zmbL8j7q6\nhAnFM2DiBZ7I1ftYEKCpOc2NTlkp4Nzdo1Mp/4HjzoEUjwaz2JL9KMOSaSLg\nehgiK4sMm+DFZyjvwH3A4UVP9mpIHBZm1QobnWtiJD4s8HSCXK95VpUInVeA\nqltjeREvIHjA9+a80nrkJGpjO/e5sjSQkjBKjR9UI6mO6Bdd9Ql7XV/1t3h9\n0/OuUAQKphYynVKBcovJVX4jMMPuID5z2LTEoToYzi7bT6i/Nj2E9d1baRVs\n53FGCf5engc/Vzwjy+JvETMdojLfBCFTAVH1iS5AVASyrIXxhQ/BQ0gCNWZH\nawJ+fF9oYTf6zmt5I6GIv97YQf5/KFykR/oM9pn0Vu09jS7UecPmB3yJcn+t\nPKCsYv8Ojm5CfqtDWsI3PH93D4LXaaI7TeEjHc4ni6OtxKzaK7MNEKaebdTS\nvj0Yt3h79qyknU03TtMGdMhGIIZklazeI6hX+qPri45zcfsyMva2KeMCmi2Z\nYnvqatKz/XEeWZ3mGZOQ99IAgsjTRdFSdWfA/zVedMzgQuhxZObuJRgTSYbv\nudMk\r\n=7M4f\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD+tPLKrd6tHfefjyq6Yi5qNNhu26WEC5jmJclT6PlyBAIgE7arrdMT6GKTRvfjDG6uTBgV9PGVGTQWU+3JSZU3ymQ="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "cocoa-jia",
+            "email": "cocoa9991@163.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "cocoa-jia",
+        "email": "cocoa9991@163.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02-module_1.0.1_1602229460741_0.2303295518796702"
+    },
+    "_hasShrinkwrap": false
+}

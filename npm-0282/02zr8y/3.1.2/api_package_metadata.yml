@@ -1,0 +1,45 @@
+{
+    "name": "02zr8y",
+    "version": "3.1.2",
+    "description": "02zr8y",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "robertcampbell66i9"
+    },
+    "license": "ISC",
+    "_id": "02zr8y@3.1.2",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-jrZB3CcuQPLzCD/GPS74iQgj4H3aRJEOZPnW6T3tPkXY3vblSMWga+M7XgZ7EEdXUYJ1tgcoeHj6t8VxZztOWw==",
+        "shasum": "417b28941ff6c5ad5438c6195661b9c031fba608",
+        "tarball": "https://registry.npmjs.org/02zr8y/-/02zr8y-3.1.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 820,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC4uhnPCFjRRZcrBdaB14RisD7CzpyHvqr7/do6FrRLPwIgY5oyGlU1jK9zTjJf4TmyA44zkhFzH7JFjcWgFGKVfSQ="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "robertcampbell66i9",
+        "email": "robertcampbell66i9@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "robertcampbell66i9",
+            "email": "robertcampbell66i9@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02zr8y_3.1.2_1683320584434_0.41628794761549215"
+    },
+    "_hasShrinkwrap": false
+}

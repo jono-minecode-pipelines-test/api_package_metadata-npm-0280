@@ -1,0 +1,55 @@
+{
+    "name": "07-a7li-atm-machine-cli",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "07-a7li-atm-machine-cli": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "IB Coading School"
+    },
+    "license": "ISC",
+    "description": "This project is based on  ATM Machine transactions",
+    "dependencies": {
+        "inquirer": "^9.2.23"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "07-a7li-atm-machine-cli@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-ayxqFL00EWyGQyOh3FN6Hd3L/K54m/P3AjVgPL7T8yf5IY6lCQkFBgg8dOg1wRuEYKA/p43odeqQxxCYqcYqgw==",
+        "shasum": "08df2f6efdd13a15d9f2f43492d33ef28bf17130",
+        "tarball": "https://registry.npmjs.org/07-a7li-atm-machine-cli/-/07-a7li-atm-machine-cli-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 17233,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDFHrBmVa1xEH0A4MdtwP1J+eLbyebcNVAy8n4OXFlFIAiEAr3914QaxkMqG2sBTTuT+ZK/XZXsbXg6jTAbO/0kecqk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mardan873",
+        "email": "alimardan873@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mardan873",
+            "email": "alimardan873@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/07-a7li-atm-machine-cli_1.0.0_1717670055894_0.06626400624959139"
+    },
+    "_hasShrinkwrap": false
+}
