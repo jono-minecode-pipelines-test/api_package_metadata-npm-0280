@@ -1,0 +1,77 @@
+{
+    "name": "hidden-files",
+    "version": "1.0.1",
+    "description": "Show or hide hidden files in OS X",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gillstrom/hidden-files.git"
+    },
+    "author": {
+        "name": "Andreas Gillstr\u00f6m",
+        "email": "andreasgillstrom@gmail.com",
+        "url": "github.com/gillstrom"
+    },
+    "bin": {
+        "hidden-files": "cli.js"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "files": [
+        "index.js",
+        "cli.js"
+    ],
+    "keywords": [
+        "cli-app",
+        "cli",
+        "files",
+        "hide",
+        "hidden",
+        "hidden files",
+        "osx",
+        "show"
+    ],
+    "dependencies": {
+        "fkill": "^1.0.0",
+        "log-symbols": "^1.0.2",
+        "meow": "^3.3.0"
+    },
+    "devDependencies": {
+        "ava": "^0.0.4"
+    },
+    "gitHead": "685d285835b734f805bc2edad08ae52de704e5c1",
+    "bugs": {
+        "url": "https://github.com/gillstrom/hidden-files/issues"
+    },
+    "homepage": "https://github.com/gillstrom/hidden-files#readme",
+    "_id": "hidden-files@1.0.1",
+    "_shasum": "cf841ba8b969797ac5784cd8b8ecb03b347d9130",
+    "_from": ".",
+    "_npmVersion": "2.9.0",
+    "_nodeVersion": "2.0.2",
+    "_npmUser": {
+        "name": "gillstrom",
+        "email": "andreasgillstrom@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "gillstrom",
+            "email": "andreasgillstrom@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "cf841ba8b969797ac5784cd8b8ecb03b347d9130",
+        "tarball": "https://registry.npmjs.org/hidden-files/-/hidden-files-1.0.1.tgz",
+        "integrity": "sha512-h/piW29rfHTKY/O1TmXZFBYoj/ayUEA3xwGyGqIKbtuG/SrDETG1IJnpfaQPdDXnnarvLHsLQi3ydNCIYnUIpw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCABqb61gYzFZ3M+21tqp2Z0oTaZZK7rCw/ZqBEfMQBgAIhAMLoyBg0G0By0At+Up7j5lxvIeWhSpn+Dc8YOQ86DjhY"
+            }
+        ]
+    }
+}

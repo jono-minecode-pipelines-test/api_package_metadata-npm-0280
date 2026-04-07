@@ -1,0 +1,81 @@
+{
+    "name": "hidden-files",
+    "version": "1.0.3",
+    "description": "Show or hide hidden files in OS X",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gillstrom/hidden-files.git"
+    },
+    "author": {
+        "name": "Andreas Gillstr\u00f6m",
+        "email": "andreasgillstrom@gmail.com",
+        "url": "github.com/gillstrom"
+    },
+    "bin": {
+        "hidden-files": "cli.js"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "files": [
+        "index.js",
+        "cli.js"
+    ],
+    "keywords": [
+        "cli-app",
+        "cli",
+        "files",
+        "hide",
+        "hidden",
+        "hidden files",
+        "osx",
+        "show"
+    ],
+    "dependencies": {
+        "fkill": "^1.0.0",
+        "log-symbols": "^1.0.2",
+        "meow": "^3.5.0"
+    },
+    "devDependencies": {
+        "ava": "^0.0.4"
+    },
+    "gitHead": "e2c67066f10dbd460aa9e4f25baf343836c0f49d",
+    "bugs": {
+        "url": "https://github.com/gillstrom/hidden-files/issues"
+    },
+    "homepage": "https://github.com/gillstrom/hidden-files#readme",
+    "_id": "hidden-files@1.0.3",
+    "_shasum": "b4e7179afeab5411017914152737b93393a26377",
+    "_from": ".",
+    "_npmVersion": "3.8.5",
+    "_nodeVersion": "5.9.0",
+    "_npmUser": {
+        "name": "gillstrom",
+        "email": "andreasgillstrom@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "gillstrom",
+            "email": "andreasgillstrom@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "b4e7179afeab5411017914152737b93393a26377",
+        "tarball": "https://registry.npmjs.org/hidden-files/-/hidden-files-1.0.3.tgz",
+        "integrity": "sha512-G56Jxggc9QE96E+Dh6behu8taOoFdQbP+VS+wcvfePnLOGFIBaiLczNSGB9N/qoy0joRQ8ol4fk0jJCK4+pcwQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDgJHfW+3C4G/+wslTDFOyhRnTBk4OTdNIbXeG+HX7AAAIgaWkJlx2acrG8sdhNtp9fQARtOOmzKgEOsEz21kpl+yE="
+            }
+        ]
+    },
+    "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/hidden-files-1.0.3.tgz_1459447901443_0.38515910413116217"
+    }
+}
