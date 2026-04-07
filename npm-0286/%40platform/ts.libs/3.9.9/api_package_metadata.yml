@@ -1,0 +1,61 @@
+{
+    "name": "@platform/ts.libs",
+    "version": "3.9.9",
+    "description": "Common TypesScript and linter configuration.",
+    "scripts": {
+        "test": "echo no-op",
+        "lint": "sh lint.sh $@",
+        "build": "sh build.sh $@",
+        "prepare": "yarn build && yarn lint"
+    },
+    "dependencies": {
+        "@types/node": "14.0.23",
+        "@typescript-eslint/eslint-plugin": "3.6.1",
+        "@typescript-eslint/eslint-plugin-tslint": "3.6.1",
+        "@typescript-eslint/parser": "3.6.1",
+        "eslint": "7.4.0",
+        "eslint-config-prettier": "6.11.0",
+        "eslint-plugin-import": "2.22.0",
+        "eslint-plugin-jsdoc": "29.2.0",
+        "eslint-plugin-prefer-arrow": "1.2.1",
+        "eslint-plugin-react": "7.20.3",
+        "prettier": "2.0.5",
+        "ts-node": "8.10.2",
+        "tslib": "2.0.0",
+        "typescript": "3.9.6"
+    },
+    "license": "MIT",
+    "_id": "@platform/ts.libs@3.9.9",
+    "_nodeVersion": "12.13.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-khRf/oSFdavBVuG5du7gf7LT0ATLk3HhlJ6qGO3zVgMvgVQffXRkxyMDKQygtUR6Bg65s5c86GPpK/Rq//7Jzg==",
+        "shasum": "5a1e2315111c9178ce97d3b71649b2084c6f1735",
+        "tarball": "https://registry.npmjs.org/@platform/ts.libs/-/ts.libs-3.9.9.tgz",
+        "fileCount": 7,
+        "unpackedSize": 3961,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfDPq0CRA9TVsSAnZWagAAp/MQAJvEd/SPTpesuuvLVoLX\nW5q2Xfld8UBfCIIlRz6jBYqQCKI6F2+/tYcsJ1ik89umsJ2GBzel8Nd86OZi\nImcdyxrULkTDnKGt0waliHQ5dWsOnyh1KCgPHBr5OFAGCDPkQI/TM4TCVlnV\n5hLVkLflIzHaYBa1BWcv9pb8j8YQ43wp535CRS6NyKlZTgfRTmuIsz45uleq\n9EZWT3Ranj+P+vGRxIPSU1kVo0KAeR9gzJFgnQB9DnpSpRFjHMHu6e/b2L1h\nHU5USSCxjbSMpfP7vVPd+5S4T5jhiySlxQqbAyAru3FQBWPFa1pGKknPfZKs\nVBFXGwb+/pdK4rRnEbojAmGWxqB1f6wXv0H+wSIYE83vZaNkTNWzE+gUHvQQ\n0e4h5wJqRzJf86p+PwHg2GsncZRX4QeRe+Q9/JlUSavAxrmp7Ndd4+Csa5J0\ndL77onVcKMVY1SWcD5CLq68s9fsHwmuEq/v9TjBWUJBAc1GjPsproD9pZ4j4\nNxsYqlbu82nIio7IsgwxEXMpqIHbdLlW3Bf3QK1ITVUIrovENahqxd+RI1it\nPgnIXfxBgFSLYd0cQnIOmfBJIPbxr35jRlyJD8xIiJItP0Z9fJpBYEEF+gM/\n+eo/2OxMQuTKILR/Q4+84LGyJ5/xFVbMfru5QCnTd7RLZC8aivvSIq0DnXHx\n4hnF\r\n=DfFq\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCrMqruM3QutVTx+2PlX0hNLGm9AHa/LOse5Hc9WynuLQIhAKlqfEk4ulGxi0yEkYsJbFiGIe12PxfTYgyPRxWGWUnH"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "philcockfield",
+            "email": "phil@cockfield.net"
+        }
+    ],
+    "_npmUser": {
+        "name": "philcockfield",
+        "email": "phil@cockfield.net"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/ts.libs_3.9.9_1594686131676_0.042483722622439934"
+    },
+    "_hasShrinkwrap": false
+}
